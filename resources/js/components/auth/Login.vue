@@ -10,7 +10,7 @@
                   <div class="pa-10 text-center">
                     <v-img class="mb-4" contain size="100%" src="/img/logo/CBSUA_Logo.png"></v-img>
                     <strong class="headline font-weight-light ">
-                      ACCREDITATION PORTAL
+                      ACCREDITATION PORTALS
                     </strong>
                   </div>
                 </v-col>
